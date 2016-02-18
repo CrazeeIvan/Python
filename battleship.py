@@ -29,8 +29,6 @@ def random_col(board):
 ship_row = random_row(board)
 ship_col = random_col(board)
 
-
-
 #for testing/debugging
 print ship_row
 print ship_col
